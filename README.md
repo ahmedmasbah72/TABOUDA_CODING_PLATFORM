@@ -1,0 +1,2 @@
+# TABOUDA_CODING_PLATFORM
+Tabouda Coding est une plateforme e‑commerce dédiée à la vente et à la réservation de services automobiles en ligne, conçue avec Laravel, Bootstrap et MySQL pour offrir une expérience fluide aux clients et un tableau de bord complet aux administrateurs. Elle centralise la gestion des services, des créneaux de réservation, des paiements sécurisés et des comptes utilisateurs, tout en intégrant des optimisations de performance et de sécurité pour un usage multi‑support (desktop, tablette, mobile).
